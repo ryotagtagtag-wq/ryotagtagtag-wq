@@ -49,6 +49,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
+
+###
+
+<h2 align="left">spotify</h2>
+
+###
+
+###
+
 ###
 
 <div align="center">
@@ -65,20 +74,20 @@
 
 <div align="left">
   <a href="mailto:ryotagtagtag@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://res.cloudinary.com/dt0zmgv8k/image/upload/v1778828180/gm_b9kimf.png" width="40" height="40" alt="gmail logo"  />
   </a>
   <a href="https://codepen.io/game_ryo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+    <img src="https://res.cloudinary.com/dt0zmgv8k/image/upload/v1778828180/cp_cztln5.png" width="40" height="40" alt="codepen logo"  />
   </a>
   <a href="https://gitlab.com/game_ryo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+    <img src="https://res.cloudinary.com/dt0zmgv8k/image/upload/v1778828180/gl_vj7cfj.png" width="40" height="40" alt="gitlab logo"  />
   </a>
   <a href="https://open.spotify.com/user/31ixwiodsajlges5jolu2aa66quy" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-ojvgheqFF4jc5EM9MYcOkULjVY3oG2hzw&s" width="52" height="40" alt="spotify logo"  />
+    <img src="https://res.cloudinary.com/dt0zmgv8k/image/upload/v1778828180/sp_efwhqw.png" width="40" height="40" alt="spotify logo"  />
   </a>
     </a>
   <a href="https://scratch.mit.edu/users/game_ryo/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="52" height="40" alt="spotify logo"  />
+    <img src="https://res.cloudinary.com/dt0zmgv8k/image/upload/v1778828180/sc_fq9cer.png" width="40" height="40" alt="spotify logo"  />
   </a>
 </div>
 
