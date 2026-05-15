@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="left">game_ryo</h1>
 
-<!--
-**ryotagtagtag-wq/ryotagtagtag-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">An elementary school student who loves tinkering with computers and smartphones and enjoys building servers and creating apps. I like to experiment with Scratch and have fun making things like chat rooms and social media-style apps. I’m also into AI, and I get a kick out of trying different things and realizing, “Hey, this actually works!”</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@ryotagtagtag.helioho.st?name=ryotagtagtag.helioho.st&theme=3d-num&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ryotagtagtag-wq/ryotagtagtag-wq/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/ryotagtagtag-wq/ryotagtagtag-wq/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ixwiodsajlges5jolu2aa66quy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ixwiodsajlges5jolu2aa66quy" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Links</h2>
+
+###
+
+<div align="left">
+  <a href="mailto:ryotagtagtag@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://codepen.io/game_ryo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://gitlab.com/game_ryo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31ixwiodsajlges5jolu2aa66quy" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-ojvgheqFF4jc5EM9MYcOkULjVY3oG2hzw&s" width="52" height="40" alt="spotify logo"  />
+  </a>
+    </a>
+  <a href="https://scratch.mit.edu/users/game_ryo/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="52" height="40" alt="spotify logo"  />
+  </a>
+</div>
+
+###
