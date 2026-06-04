@@ -60,7 +60,7 @@
 
 ###
 
-  [![Spotify recently played]](https://spotify-recently-played-readme.vercel.app/api?user=31ixwiodsajlges5jolu2aa66quy&guest=1)
+  [![https://spotify-recently-played-readme.vercel.app/api?user=31ixwiodsajlges5jolu2aa66quy&guest=1]](https://open.spotify.com/user/31ixwiodsajlges5jolu2aa66quy)
 
 ###
 
