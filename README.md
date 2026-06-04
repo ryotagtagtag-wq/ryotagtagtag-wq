@@ -60,8 +60,7 @@
 
 ###
 
-  ![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ixwiodsajlges5jolu2aa66quy&guest=1)
-
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ixwiodsajlges5jolu2aa66quy)
 ###
 
 <h2 align="left">Links</h2>
