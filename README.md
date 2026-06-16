@@ -63,7 +63,7 @@
 ![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ixwiodsajlges5jolu2aa66quy)
 ###
 
-![](.profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ###
 
