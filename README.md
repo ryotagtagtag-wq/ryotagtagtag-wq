@@ -7,8 +7,10 @@
 ###
 
 <h2 align="left">Stats</h2>
-
 ###
+![](./profile-3d-contrib/profile-gitblock.svg)
+###
+
 
 <div align="center">
   <img src="https://count.getloli.com/@ryotagtagtag.helioho.st?name=ryotagtagtag.helioho.st&theme=3d-num&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"  />
@@ -21,9 +23,6 @@
   <img src="https://raw.githubusercontent.com/ryotagtagtag-wq/ryotagtagtag-wq/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-###
-![](./profile-3d-contrib/profile-gitblock.svg)
-###
 
 <h2 align="left">Techs</h2>
 
